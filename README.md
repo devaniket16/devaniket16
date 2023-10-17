@@ -13,6 +13,21 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+*
+   
+  <p align="center">
+    Show ❤️ by starring and forking repositories you find good!
+  </p>
+</p>
+
+<div align="right">
+  
+![ViewCount](https://views.whatilearened.today/views/github/devaniket16/devaniket16.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://devaniket16.github.io/AniketKumarSharma)
+
+</div>
+
+<!-- [![HitCount](http://hits.dwyl.com/devaniket16/devaniket16.svg)](http://hits.dwyl.com/devaniket16/devaniket16) -->
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
