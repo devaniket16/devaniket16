@@ -3,8 +3,6 @@
              
 
 
-![](https://komarev.com/ghpvc/?username=devaniket16&color=447ff7&label=Visitor+count)
-
 
 
 # 💻 Tech Stack:
