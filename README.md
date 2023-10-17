@@ -26,7 +26,7 @@
 <p>
 <a href="https://github.com/devaniket16">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devaniket16&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devaniket16&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devaniket16&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
